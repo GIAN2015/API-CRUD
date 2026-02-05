@@ -26,7 +26,7 @@ Sigue estos pasos para probar la aplicación en local:
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [TU_LINK_DE_GITHUB_AQUI]
+    git clone https://github.com/GIAN2015/API-CRUD
     ```
 
 2.  **Instalar dependencias:**
